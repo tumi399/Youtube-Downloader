@@ -160,8 +160,3 @@ python main.py
 4. Chọn **thư mục lưu** file (hoặc gõ trực tiếp đường dẫn).
 5. Nhấn **"⭳ TẢI XUỐNG"** và theo dõi tiến trình trong thanh log.
 
----
-
-## 📄 License
-
-Dự án này được phân phối theo giấy phép **MIT**. Xem file [LICENSE](LICENSE) để biết thêm chi tiết.
