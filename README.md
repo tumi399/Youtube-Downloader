@@ -141,21 +141,6 @@ python main.py
 
 ---
 
-## 📦 Đóng gói thành file `.exe`
-
-Dự án đã có sẵn file `.spec` cấu hình cho **PyInstaller**:
-
-```bash
-pip install pyinstaller
-pyinstaller YouTubeDownloader.spec
-```
-
-File thực thi `YouTubeDownloader.exe` sẽ được tạo trong thư mục `dist/`.
-
-> **Lưu ý:** FFmpeg (`bin/ffmpeg.exe`, `bin/ffprobe.exe`) sẽ được đóng gói tự động vào file `.exe`.
-
----
-
 ## 🛠️ Công nghệ sử dụng
 
 | Thư viện | Phiên bản | Mục đích |
