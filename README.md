@@ -23,10 +23,10 @@
 ┌─────────────────────────────────────┐
 │ ● ● ●                               │
 │                                     │
-│    ▶  YouTube Downloader            │
-│    Phần mềm tải video & âm thanh   │
+│    ▶  YouTube Downloader           │
+│    Phần mềm tải video & âm thanh    │
 │                                     │
-│  🔗 URL VIDEO                       │
+│  🔗 URL VIDEO                      │
 │  [ https://youtube.com/watch?v=... ]│
 │  [        Phân tích        ]        │
 │                                     │
@@ -35,9 +35,9 @@
 │  │              HD 1080p • 5:32 │   │
 │  └──────────────────────────────┘   │
 │                                     │
-│  [Format: MP4 ▾] [Quality: 1080p ▾]│
+│  [Format: MP4 ▾] [Quality: 1080p ▾] │
 │                                     │
-│  Sẵn sàng                      0%  │
+│  Sẵn sàng                      0%   │
 │  [████████████████████] 100%        │
 │                                     │
 │  LOG                      0 lines   │
@@ -45,8 +45,8 @@
 │  │ [INFO] Đang phân tích...     │   │
 │  └──────────────────────────────┘   │
 │                                     │
-│  [ /path/to/downloads ] [📁 Chọn...]│
-│  [       ⭳  TẢI XUỐNG       ]      │
+│ [ /path/to/downloads ] [📁Chọn...] │
+│  [       ⭳  TẢI XUỐNG       ]       │
 └─────────────────────────────────────┘
 ```
 
